@@ -1,0 +1,3 @@
+MedDetect Git Demo
+Status: Development
+Version: 1.0
