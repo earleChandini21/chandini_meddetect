@@ -1,4 +1,4 @@
-🏥 MedDetect - Clinical Data Management System
+--🏥 MedDetect - Clinical Data Management System--
 📌 Overview
 MedDetect is a lightweight healthcare management system designed to manage patient records and clinical visit data efficiently. It provides a structured way to store, retrieve, and analyze medical information such as symptoms, diagnosis, and medications.
 The project focuses on backend data handling, demonstrating how real-world healthcare data can be managed using Python and SQLite.
@@ -72,4 +72,4 @@ Handling real-world structured and semi-structured data
 Understanding trade-offs in system design
 📌 Conclusion
 MedDetect demonstrates how a simple yet functional healthcare data system can be built with efficient backend logic, making it a strong foundation for scaling into a full-fledged clinical application.
- 
+make it as proper use.
